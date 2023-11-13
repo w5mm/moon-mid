@@ -1,6 +1,6 @@
 package helloAlgo;
 
-public class numRollsToTarget {
+public class NumRollsToTarget {
     static final int MOD  = 1000000007;
 
 

@@ -1,6 +1,6 @@
 package helloAlgo;
 
-public class minPathSum {
+public class MinPathSum {
     int minPathSum(int[][] grid,int[][] mem, int i ,int j){
         if(i == 0 && j == 0){
             return grid[0][0];

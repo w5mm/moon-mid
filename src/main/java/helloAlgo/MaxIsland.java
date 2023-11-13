@@ -1,6 +1,6 @@
 package helloAlgo;
 
-public class maxIsland {
+public class MaxIsland {
     static int count = 0;
 
 

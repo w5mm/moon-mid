@@ -2,7 +2,7 @@ package helloAlgo;
 
 import java.util.*;
 
-public class maxKelements {
+public class MaxKelements {
 
     public static void main(String[] args) {
         int[] elements ={1,10,3,3,3};

@@ -1,6 +1,6 @@
 package helloAlgo;
 
-public class countSort {
+public class CountSort {
 
     public static void main(String[] args) {
         int[] a = {1,13,5,12,12,5,14,3,4,5,6,3,5,6,8,9,9,4};

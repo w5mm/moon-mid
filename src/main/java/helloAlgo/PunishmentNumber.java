@@ -1,6 +1,6 @@
 package helloAlgo;
 
-public class punishmentNumber {
+public class PunishmentNumber {
 
 
 
@@ -30,7 +30,7 @@ public class punishmentNumber {
 
 
         public static void main(String[] args) {
-            punishmentNumber p = new punishmentNumber();
+            PunishmentNumber p = new PunishmentNumber();
             System.out.println(p.punishmentNumber(10));
 
 

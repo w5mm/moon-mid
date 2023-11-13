@@ -1,6 +1,6 @@
 package helloAlgo;
 
-public class insertionSort {
+public class InsertionSort {
 
     int[] indices =  {1,5,6,3,5332,23,4324,43,2,4};
     public void insertionSort(int[] nums) {

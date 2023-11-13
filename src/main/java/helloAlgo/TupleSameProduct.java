@@ -1,9 +1,8 @@
 package helloAlgo;
 
 import java.util.HashMap;
-import java.util.logging.Handler;
 
-public class tupleSameProduct {
+public class TupleSameProduct {
 
 
     public static void main(String[] args) {

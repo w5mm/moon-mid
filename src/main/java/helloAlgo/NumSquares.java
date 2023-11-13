@@ -1,9 +1,8 @@
 package helloAlgo;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class numSquares {
+public class NumSquares {
 
     public static void main(String[] args) {
         int[] coins = {1, 2, 3};

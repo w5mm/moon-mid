@@ -1,6 +1,6 @@
 package helloAlgo;
 
-public class radixSort {
+public class RadixSort {
     int digit(int number,int exp){
         return (number/exp)%10;
     }

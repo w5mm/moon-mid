@@ -4,7 +4,7 @@ import java.util.*;
 
 import static java.lang.Thread.sleep;
 
-public class findAnagram {
+public class FindAnagram {
 
     public  static void main(String[] args){
         String s  = "hellehoworld"; String p  = "he";

@@ -1,10 +1,10 @@
 package helloAlgo;
 
-public class partition {
+public class Partition {
     public static void main(String[] args) {
         int[] nums = {1,5,6,3,5332,23,4324,43,2,4};
 
-        partition p = new partition();
+        Partition p = new Partition();
         p.quickSort(nums,0,nums.length-1);
 
 

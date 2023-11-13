@@ -2,7 +2,7 @@ package helloAlgo;
 
 import java.util.*;
 
-public class queen {
+public class Queen {
 
         public List<List<String>> solveNQueens(int n) {
             List<List<String>> solutions = new ArrayList<List<String>>();

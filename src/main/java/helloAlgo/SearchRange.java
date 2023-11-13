@@ -1,6 +1,6 @@
 package helloAlgo;
 
-public class searchRange {
+public class SearchRange {
 
 
 
