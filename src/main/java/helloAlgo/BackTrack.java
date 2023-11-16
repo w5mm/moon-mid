@@ -2,7 +2,7 @@ package helloAlgo;
 
 import java.util.*;
 
-public class backTrack {
+public class BackTrack {
 
     public static void main(String[] args) {
         int[] x = {1, 1, 3, 4, 5, 6};

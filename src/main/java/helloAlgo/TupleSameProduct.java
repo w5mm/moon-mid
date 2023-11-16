@@ -1,15 +1,13 @@
 package helloAlgo;
 
-import java.util.HashMap;
+import org.apache.pulsar.common.util.SafeCollectionUtils;
+
+import java.util.*;
 
 public class TupleSameProduct {
 
 
-    public static void main(String[] args) {
-        int [] nums = {1,2,4,5,10};
-        tupleSameProduct(nums);
 
-    }
     public static int tupleSameProduct(int[] nums) {
         HashMap<Integer, Integer> product = new HashMap<Integer, Integer>();
         int res = 0;
