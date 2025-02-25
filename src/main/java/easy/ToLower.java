@@ -1,6 +1,6 @@
 package easy;
 
-public class toLower {
+public class ToLower {
     public String toLowerCase(String s) {
         StringBuilder ans  = new StringBuilder();
       for(char c : s.toCharArray()){
@@ -13,9 +13,9 @@ public class toLower {
     }
 
     public static void main(String[] args) {
-        toLower toLower = new toLower();
+        ToLower toLower = new ToLower();
         System.out.println(toLower.toLowerCase("Hello"));
     }
-    
+
 }
 

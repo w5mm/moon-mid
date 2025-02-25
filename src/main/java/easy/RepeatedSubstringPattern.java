@@ -3,7 +3,7 @@ package easy;
 import java.util.HashMap;
 import java.util.Map;
 
-public class repeatedSubstringPattern {
+public class RepeatedSubstringPattern {
     public static void main(String[] args) {
         String s= "ababab";
        boolean b = repeatedSubstringPattern(s);

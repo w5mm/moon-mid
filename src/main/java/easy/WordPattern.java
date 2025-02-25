@@ -3,10 +3,10 @@ package easy;
 import java.util.Arrays;
 import java.util.List;
 
-public class wordPattern {
+public class WordPattern {
     public static void main(String[] args) {
 
-        wordPattern wordPattern = new wordPattern();
+        WordPattern wordPattern = new WordPattern();
         System.out.println(wordPattern.wordPattern("abba", "dog cat cat dog"));
     }
 
