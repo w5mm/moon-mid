@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7aee21c1-fbb9-4645-b62f-f987abc5ffd7" name="Changes" comment="第四次" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;w5mm&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4e80b809-7d1c-49a4-9107-505fb673831c" />
+        <option name="url" value="https://github.com/w5mm/moon-mid.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../ruanjian/jdk/jdk-17/graalvm-jdk-17.0.8+9.1/lib/src.zip!/java.base/java/lang/Character.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../ruanjian/jdk/jdk-17/graalvm-jdk-17.0.8+9.1/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../ruanjian/jdk/jdk-17/graalvm-jdk-17.0.8+9.1/lib/src.zip!/java.base/java/util/ArrayDeque.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../ruanjian/jdk/jdk-17/graalvm-jdk-17.0.8+9.1/lib/src.zip!/java.base/java/util/Deque.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\ruanjian\maven\apache-maven-3.8.4\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../ruanjian/maven/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\ruanjian\maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2VPftFYyCbfGPFayoyuqkm9dMeQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CallableTest.executor": "Debug",
+    "Application.CompletableFutureTest.executor": "Debug",
+    "Application.CreatThread.executor": "Debug",
+    "Application.HmacSignUtil.executor": "Debug",
+    "Application.RestTemplateUtil.executor": "Debug",
+    "Application.RightRotate.executor": "Debug",
+    "Application.SearchMatrix.executor": "Debug",
+    "Application.ThreadPoolExecutorTest.executor": "Debug",
+    "Application.WildcardMatching.executor": "Debug",
+    "Application.latestTimeCatchTheBus.executor": "Debug",
+    "Application.repeatedSubstringPattern.executor": "Debug",
+    "Application.toLower.executor": "Debug",
+    "Application.wordPattern.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "dev",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/duojing/platform-mall",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pratise" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\aProject\moon-mid\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\aProject\moon-mid" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.latestTimeCatchTheBus">
+    <configuration name="FirstCompleteIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloAlgo.FirstCompleteIndex" />
+      <module name="moon-mid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthOfLIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloAlgo.LengthOfLIS" />
+      <module name="moon-mid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloAlgo.MaxSlidingWindow" />
+      <module name="moon-mid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloAlgo.WordBreak" />
+      <module name="moon-mid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="latestTimeCatchTheBus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mid.binary.latestTimeCatchTheBus" />
+      <module name="moon-mid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mid.binary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.latestTimeCatchTheBus" />
+        <item itemvalue="Application.WordBreak" />
+        <item itemvalue="Application.MaxSlidingWindow" />
+        <item itemvalue="Application.LengthOfLIS" />
+        <item itemvalue="Application.FirstCompleteIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aee21c1-fbb9-4645-b62f-f987abc5ffd7" name="Changes" comment="" />
+      <created>1694742850840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694742850840</updated>
+      <workItem from="1694742852324" duration="3465000" />
+      <workItem from="1695026735435" duration="1377000" />
+      <workItem from="1695112162117" duration="3234000" />
+      <workItem from="1695199990306" duration="2548000" />
+      <workItem from="1695797386585" duration="3986000" />
+      <workItem from="1695864876614" duration="596000" />
+      <workItem from="1696642482923" duration="592000" />
+      <workItem from="1696820524246" duration="4558000" />
+      <workItem from="1696901817121" duration="2149000" />
+      <workItem from="1696907826995" duration="6396000" />
+      <workItem from="1696987662832" duration="7824000" />
+      <workItem from="1697103116008" duration="2632000" />
+      <workItem from="1697512805802" duration="6070000" />
+      <workItem from="1697593429699" duration="7256000" />
+      <workItem from="1697702685301" duration="4273000" />
+      <workItem from="1697794246496" duration="2172000" />
+      <workItem from="1698136027495" duration="2363000" />
+      <workItem from="1698197569092" duration="8624000" />
+      <workItem from="1698229229093" duration="302000" />
+      <workItem from="1698284150853" duration="14648000" />
+      <workItem from="1698658988507" duration="2011000" />
+      <workItem from="1698716076491" duration="594000" />
+      <workItem from="1698745196602" duration="2181000" />
+      <workItem from="1698802728616" duration="594000" />
+      <workItem from="1698917370903" duration="1674000" />
+      <workItem from="1699262782121" duration="1919000" />
+      <workItem from="1699320535701" duration="2311000" />
+      <workItem from="1699438172186" duration="884000" />
+      <workItem from="1699493857216" duration="2871000" />
+      <workItem from="1699608171194" duration="1726000" />
+      <workItem from="1699844151129" duration="2746000" />
+      <workItem from="1699929660789" duration="13303000" />
+      <workItem from="1700017240214" duration="4643000" />
+      <workItem from="1700125157329" duration="3216000" />
+      <workItem from="1700185092150" duration="7280000" />
+      <workItem from="1700444188621" duration="714000" />
+      <workItem from="1700530949183" duration="2582000" />
+      <workItem from="1700616906611" duration="713000" />
+      <workItem from="1700618879368" duration="77000" />
+      <workItem from="1701422947154" duration="3016000" />
+      <workItem from="1701653859189" duration="581000" />
+      <workItem from="1704178706596" duration="685000" />
+      <workItem from="1704447392112" duration="1761000" />
+      <workItem from="1704766320543" duration="194000" />
+      <workItem from="1706520151681" duration="371000" />
+      <workItem from="1706608994945" duration="871000" />
+      <workItem from="1706688465811" duration="3088000" />
+      <workItem from="1706691611410" duration="500000" />
+      <workItem from="1706767331886" duration="5740000" />
+      <workItem from="1706842847092" duration="89000" />
+      <workItem from="1708247811608" duration="3950000" />
+      <workItem from="1708311903114" duration="4344000" />
+      <workItem from="1708494907237" duration="5313000" />
+      <workItem from="1708566812785" duration="638000" />
+      <workItem from="1708678780303" duration="2854000" />
+      <workItem from="1708997408682" duration="807000" />
+      <workItem from="1713607000634" duration="1533000" />
+      <workItem from="1714376415189" duration="241000" />
+      <workItem from="1714376676382" duration="2529000" />
+      <workItem from="1715325287366" duration="40000" />
+      <workItem from="1716347742726" duration="487000" />
+      <workItem from="1716803159764" duration="1027000" />
+      <workItem from="1716861622621" duration="16000" />
+      <workItem from="1717379671252" duration="3051000" />
+      <workItem from="1717465069350" duration="595000" />
+      <workItem from="1717552430735" duration="2390000" />
+      <workItem from="1717639363425" duration="1196000" />
+      <workItem from="1718070027564" duration="614000" />
+      <workItem from="1718173234335" duration="599000" />
+      <workItem from="1718242598742" duration="1199000" />
+      <workItem from="1720081358705" duration="7182000" />
+      <workItem from="1721613128903" duration="184000" />
+      <workItem from="1723431851094" duration="9107000" />
+      <workItem from="1726649199147" duration="17816000" />
+      <workItem from="1727058638333" duration="3057000" />
+      <workItem from="1727594019710" duration="24000" />
+      <workItem from="1728440781731" duration="41000" />
+      <workItem from="1738745708722" duration="652000" />
+      <workItem from="1738805321873" duration="877000" />
+      <workItem from="1738888585467" duration="108000" />
+      <workItem from="1738973445140" duration="1248000" />
+      <workItem from="1740448710337" duration="2082000" />
+    </task>
+    <task id="LOCAL-00001" summary="nn">
+      <created>1699608551228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699608551228</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nn">
+      <created>1699609157952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699609157952</updated>
+    </task>
+    <task id="LOCAL-00003" summary="diyici">
+      <created>1699844232018</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699844232018</updated>
+    </task>
+    <task id="LOCAL-00004" summary="diyici">
+      <created>1699844591682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699844591682</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第二次">
+      <created>1700125186029</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700125186029</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第二次">
+      <option name="closed" value="true" />
+      <created>1706690140147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706690140147</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第二次">
+      <option name="closed" value="true" />
+      <created>1706690195354</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706690195354</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第二次">
+      <option name="closed" value="true" />
+      <created>1706691000407</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706691000407</updated>
+    </task>
+    <task id="LOCAL-00009" summary="第3次">
+      <option name="closed" value="true" />
+      <created>1706691717873</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706691717873</updated>
+    </task>
+    <task id="LOCAL-00010" summary="第3次">
+      <option name="closed" value="true" />
+      <created>1726649627116</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726649627116</updated>
+    </task>
+    <task id="LOCAL-00011" summary="第四次">
+      <option name="closed" value="true" />
+      <created>1726732168141</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726732168141</updated>
+    </task>
+    <task id="LOCAL-00012" summary="第四次">
+      <option name="closed" value="true" />
+      <created>1740451104106</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740451104106</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nn" />
+    <MESSAGE value="diyici" />
+    <MESSAGE value="第二次" />
+    <MESSAGE value="第3次" />
+    <MESSAGE value="第四次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/moon_mid$findAnagrams.ic" NAME="findAnagrams Coverage Results" MODIFIED="1695114196392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/moon_mid$RestTemplateUtil.ic" NAME="RestTemplateUtil Coverage Results" MODIFIED="1723441155671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sunshineProtocol.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/moon_mid$numRollsToTarget.ic" NAME="numRollsToTarget Coverage Results" MODIFIED="1698201024742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>helloAlgo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/moon_mid$repeatedSubstringPattern.ic" NAME="repeatedSubstringPattern Coverage Results" MODIFIED="1720082862201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.*</FILTER>
+    </SUITE>
+  </component>
+</project>
